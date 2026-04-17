@@ -1,4 +1,4 @@
-# AIC Datathon 2026 - From Rate to Reality: a RateMyProfessor deepdive
+# AIC Datathon 2026 - The Hidden Cost of Higher Education
 # Christopher Lobato, Karen Cho
 
 
